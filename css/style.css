@@ -1,0 +1,70 @@
+.avatar {
+    width: 100%;
+}
+
+.backimg {
+    background: url(../img/bg.jpg) center no-repeat;
+    background-size: cover;
+    width: 100%;
+    display: block;
+    min-height: 539px;
+    padding: 0 0 25px 0;
+    background-color: #DDD;
+}
+
+img {
+    height: 600px;
+    width: 100%;
+    text-align: center;
+}
+
+.head {
+    color: #fff;
+    margin: 50px 285px;
+    padding: 100px;
+    position: absolute;
+    font-size: 28px;
+    /* width: 80%; */
+    display: block;
+}
+
+.container-fluid:after {
+    margin-bottom: 15px;
+}
+
+.container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.head h1 {
+    font-size: 28px;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+h1 small {
+    color: rgba(204, 204, 204, 0.88);
+}
+
+label {
+    vertical-align: middle;
+}
+
+input[type=checkbox] {
+    margin-right: 10px;
+}
+
+.searchcontainer ul {
+    float: right;
+}
+
+#profile {
+    margin-top: 20px;
+}
+
+.head a {
+    font-size: 16px;
+    color: #fff;
+    text-align: center;
+}
